@@ -1,5 +1,7 @@
 # 105 JavaScript Event Handlers
 
+
+
 This list is taken from [OWASP XSS Filter Evasion Cheat Sheet](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet)
 
 <br><b>FSCommand</b> (attacker can use this when executed from within an embedded Flash object)
